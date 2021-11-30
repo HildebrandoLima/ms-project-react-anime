@@ -1,16 +1,13 @@
-##Projeto para consumir api criada por mim##
-<hr />
-###Consumindo api com React.###
+Projeto para consumir api criada por mim
 
 <br />
-###Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).###
 
-<hr />
-
-<b>Tecnologia: </b>
-<li>ReactJS</li>
+Consumindo api com React.###
 
 <br />
+Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).
+
+<hr />
 
 <b>axios</b>
 <li>Consumir api - <b>ver mais em:</b> (https://www.npmjs.com/package/axios)</li>
