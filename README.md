@@ -1,9 +1,9 @@
-##Projeto para consumir api criada por mim
+##Projeto para consumir api criada por mim##
 <hr />
-###Consumindo api com React.
+###Consumindo api com React.###
 
 <br />
-###Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).
+###Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).###
 
 <hr />
 
