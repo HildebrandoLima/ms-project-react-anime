@@ -9,6 +9,9 @@ Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).
 
 <hr />
 
+<b>Tecnoogia:</b>
+<li>ReactJS</li>
+
 <b>axios</b>
 <li>Consumir api - <b>ver mais em:</b> (https://www.npmjs.com/package/axios)</li>
 
