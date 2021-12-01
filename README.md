@@ -6,7 +6,7 @@ Consumindo api com React.
 
 <br />
 
-Ver projeto de api: (https://github.com/HildebrandoLima/Criando-API/).
+Ver projeto - consumo de api: (https://github.com/HildebrandoLima/Criando-API/).
 
 <hr />
 
