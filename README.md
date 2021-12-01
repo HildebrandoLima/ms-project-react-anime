@@ -1,8 +1,8 @@
-Projeto para consumir api criada por mim
+<h1>Projeto para consumir api criada por mim</h1>
 
 <br />
 
-Consumindo api com React.
+<b>Consumindo api com React.</b>
 
 <br />
 
