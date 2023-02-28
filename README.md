@@ -1,4 +1,4 @@
-## Consumindo API dos personagens de Demon Slayer. (De minha atoria)
+## Consumindo API dos personagens de Demon Slayer. (De minha autoria)
 
 <hr />
 
