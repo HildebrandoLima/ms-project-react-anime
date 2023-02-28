@@ -25,7 +25,7 @@
 
 <br />
 
-<b>Instale Framework:</b>
+<b>Instale o Framework:</b>
 
 <li>bootstrap - <b>ver mais em:</b> [https://www.npmjs.com/package/bootstrap]</li>
 
