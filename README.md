@@ -8,7 +8,7 @@
 
 <br />
 
-<b>Tecnoogia:</b>
+<b>Tecnologia:</b>
 <li>ReactJS</li>
 
 <br />
