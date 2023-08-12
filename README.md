@@ -1,4 +1,4 @@
-## Consumindo API dos personagens de Demon Slayer. (De minha autoria)
+## Consumindo API dos personagens de Demon Slayer
 
 <li>Segue url da API: https://github.com/HildebrandoLima/ms-api-node-anime/</li>
 
