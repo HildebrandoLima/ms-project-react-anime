@@ -1,12 +1,9 @@
 ## Consumindo API dos personagens de Demon Slayer. (De minha autoria)
 
-<hr />
-
 <li>Segue url da API: [https://github.com/HildebrandoLima/Criando-API](https://github.com/HildebrandoLima/ms-api-node-anime/)]</li>
 
-<b>Tecnologia: ReactJS </b>
-
 ### Passos
+
 <ul>
 <li>Clone o projeto: git@github.com:HildebrandoLima/Consumindo-API.git</li>
 <li>Instale o pacote axios: ´npm install axios´ [https://www.npmjs.com/package/axios]</li>
